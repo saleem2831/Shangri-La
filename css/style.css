@@ -11470,7 +11470,7 @@ iframe[data-uk-cover] {
   font-size: 0.882rem;
 }
 .in-card-10 .uk-card-default a {
-  color: inherit;
+  /* color: inherit; */
   text-decoration: none;
 }
 .in-card-10 .uk-card-default a i {
